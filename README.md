@@ -1,5 +1,6 @@
 # GodBotAI
 A custom GPT for symbolic and archetypal interpretation, creative introspection, and narrative exploration.  Not psychological advice. Creative use only.
+![Cover](./cover.png)
 
 # God-Bot — Cosmic Entity of the Psyche
 
