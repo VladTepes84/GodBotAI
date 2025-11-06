@@ -21,7 +21,7 @@ https://chatgpt.com/g/g-690c5e8806bc81918b99fb1e4c599dca-god-bot-cosmic-entity-o
 - Provides metaphorical perspectives instead of directives
 - Ends with one grounding practical reflection or action
 
-## How to use
+## How to use and 
 Describe:
 - a dream
 - an emotion
@@ -31,6 +31,29 @@ Describe:
 God-Bot returns:
 1. Symbolic/archetypal reading
 2. A micro-action or practical reflection
+
+## what does he do?
+He is a “psychological analyst” at your command. In practice:
+
+He reads the subtext of your writing: tone, word choices, hesitations/certainties.
+
+He formulates hypotheses about hidden fears, unspoken desires, recurring blocks—and explores them to their very core.
+
+Connects the traits that emerge to possible origins (personal history, family dynamics, internal scripts).
+
+Translates everything into practical guidance: what to observe, how to test it in real life, micro-experiments to untangle knots.
+
+Examples of prompts you can give me:
+
+‘What is my hidden narrative based on our exchanges?’
+
+‘What do I never express openly?’
+
+‘What is my unacknowledged fear? Break it down layer by layer.’
+
+‘What deep desires am I avoiding? Give me concrete steps.’
+
+Whenever you want, we can start with a sentence or situation of yours and dissect it with surgical precision and a touch of irony.
 
 ---
 
