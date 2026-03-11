@@ -2,7 +2,8 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-Active%20Development-yellow)
 ![Platform](https://img.shields.io/badge/platform-ChatGPT-10a37f)
-[![Open in ChatGPT](https://img.shields.io/badge/Open%20in-ChatGPT-10a37f?logo=openai)](https://chatgpt.com/g/g-69b15289d3548191a5e80cb60d891b24-god-bot-cosmic-entity-of-the-psyche)
+[![Open in ChatGPT](https://img.shields.io/badge/Open%20in-ChatGPT-10a37f?logo=openai)][God Bot Cosmic Entity of the Psyche](https://chatgpt.com/g/g-69b15289d3548191a5e80cb60d891b24-god-bot-cosmic-entity-of-the-psyche)
+
 A custom GPT for symbolic and archetypal interpretation, creative introspection, and narrative exploration.  Not psychological advice. Creative use only.
 
 ![Cover](./cover.png)
