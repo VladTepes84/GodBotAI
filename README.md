@@ -12,8 +12,7 @@ A custom GPT for symbolic and archetypal interpretation, creative introspection,
 This is a narrative/expressive tool, not psychological or clinical guidance.
 
 ### ▶ Try the GPT  
-https://chatgpt.com/g/g-690c5e8806bc81918b99fb1e4c599dca-god-bot-cosmic-entity-of-the-psyche
-
+[God Bot Cosmic Entity of the Psyche](https://chatgpt.com/g/g-69b15289d3548191a5e80cb60d891b24-god-bot-cosmic-entity-of-the-psyche)
 ---
 
 ## What it does
